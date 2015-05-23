@@ -1,0 +1,374 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"function",
+				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
+			],
+			[
+				"com",
+				"comm-block	Comment - Block style comment"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"err",
+				"err2〔argument〕"
+			],
+			[
+				"readFil",
+				"fs.readFile(path, encoding_);"
+			],
+			[
+				"createS",
+				"fs.createReadStream(path, options);"
+			],
+			[
+				"createStrea",
+				"fs.createWriteStream(path, options);"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"readyState",
+				"document.readyState	Document"
+			],
+			[
+				"read",
+				"readyState	Document"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"node",
+				"node.fs.readdir	Snippet: fs.readdir"
+			],
+			[
+				"le",
+				"length	String"
+			],
+			[
+				"if",
+				"if()"
+			],
+			[
+				"true",
+				"isTrusted	Event"
+			],
+			[
+				"forEach",
+				"forEach(${0:callback})	Array"
+			],
+			[
+				"eventObject",
+				"click(handler(eventObject), eventData, handler(eventObject)) -> $"
+			],
+			[
+				"forE",
+				"forEach(${0:callback})	Array"
+			],
+			[
+				"log",
+				"$logProvider	AngularJS"
+			],
+			[
+				"loca",
+				"$location	AngularJS"
+			],
+			[
+				"me",
+				"meta	<meta name=\"\" content=\"\">"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"htm",
+				"html5	Simple HTML5 Boilerplate"
+			],
+			[
+				"ion",
+				"ion-footer-bar	Ionic Extension"
+			],
+			[
+				"ion-nav",
+				"ionic-nav-bar	ionic-nav-bar"
+			],
+			[
+				"h",
+				"h:a	height:auto"
+			],
+			[
+				"mix",
+				"mixin	@mixin"
+			],
+			[
+				"httpBackend",
+				"angular: $httpBackend"
+			],
+			[
+				"$htt",
+				"angular: $httpBackend"
+			],
+			[
+				"DELETE",
+				"angular: $sceDelegateProvider"
+			],
+			[
+				"mo",
+				"module	AngularJS"
+			],
+			[
+				"ionico",
+				"ionicons-font-path"
+			]
+		]
+	},
+	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"requ",
+				"Snippet: require"
+			],
+			[
+				"requi",
+				"Snippet: require"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/amaranto/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/amaranto/.local/share/Trash/files/Hello World/Hello World.js",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/dest",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/merge.js",
+		"/home/amaranto/.config/sublime-text-2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/Nodejs.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/NodeRequirer/NodeRequirer.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/NodeRequirer.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/amaranto/Escritorio/entregable1.js",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/ej2.js",
+		"/home/amaranto/.config/sublime-text-2/Packages/Terminal/Terminal.sublime-settings",
+		"/home/amaranto/Escritorio/cdcol.sql",
+		"/home/amaranto/.local/share/applications/Android Studio.desktop",
+		"/home/amaranto/.local/share/applications/Aptana Studio.desktop",
+		"/home/amaranto/.local/share/applications/chrome-app-list.desktop",
+		"/home/amaranto/.local/share/applications/chrome-ejnkaeblpdcamcioiiabclakabcbjmbl-Default.desktop",
+		"/home/amaranto/.local/share/applications/chrome-knipolnnllmklapflnccelgolnpehhpl-Default.desktop",
+		"/home/amaranto/.local/share/applications/chrome-nmmhkkegccagdldgiimedpiccmgmieda-Default.desktop",
+		"/home/amaranto/.local/share/applications/Eclipse.desktop",
+		"/home/amaranto/.local/share/applications/jetbrains-phpstorm.desktop",
+		"/home/amaranto/.local/share/applications/mimeapps.list",
+		"/home/amaranto/.local/share/applications/Titanium Studio.desktop",
+		"/home/amaranto/.local/share/applications/xampp.desktop",
+		"/home/amaranto/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/amaranto/Escritorio/AvisosImputacion/nbproject/private/Makefile-variables.mk",
+		"/home/amaranto/Escritorio/AvisosImputacion/nbproject/private/launcher.properties",
+		"/home/amaranto/Escritorio/AvisosImputacion/nbproject/Makefile-impl.mk",
+		"/home/amaranto/Escritorio/AvisosImputacion/Makefile",
+		"/home/amaranto/Escritorio/dump/dump.depend",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/lib/caman/dist/caman.full.min.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/lib/caman/dist/caman.full.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/lib/caman/dist/caman.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/lib/caman/karma.conf.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/plugins/firefoxos.json",
+		"/home/amaranto/Escritorio/prPillars/package.json",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/bower.json",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/index.html",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/scss/ionic.app.scss",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/lib/ionic/js/ionic-angular.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/config.xml",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/js/controllers.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/www/js/app.js",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/platforms/android/AndroidManifest.xml",
+		"/home/amaranto/Android/Sdk/SDK Readme.txt",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/terminal.glue",
+		"/home/amaranto/.bashrc",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/TerminalinPackages/Default.sublime-keymap",
+		"/home/amaranto/.config/sublime-text-2/Packages/TerminalinPackages/Default.sublime-keymap",
+		"/home/amaranto/.config/sublime-text-2/Packages/Terminal in Packages/terminalinpackages.sublime-settings",
+		"/home/amaranto/.config/sublime-text-2/Packages/User/terminalinpackages.sublime-settings",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/pruebaIonic.sublime-project",
+		"/home/amaranto/Escritorio/pruebaIonic/myApp/gulpfile.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"simple_require",
+			"fs",
+			"applica",
+			"open f",
+			"open_",
+			"\"",
+			"route"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true
+}
