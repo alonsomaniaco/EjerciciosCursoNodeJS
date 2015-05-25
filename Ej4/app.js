@@ -41,7 +41,7 @@ try{
 						+"<label>¿Capital de Portugal?</label>"
 						+"<input type='text' name='respuesta' value=''>"
 						+"<input type='submit' value='Enviar'>"
-						+"<input type='hidden' name='pregunta' value='1'>"
+						+"<input type='hidden' name='pregunta' value='2'>"
 					+"</form>"
 				+"</body>"
 			+"</html>");

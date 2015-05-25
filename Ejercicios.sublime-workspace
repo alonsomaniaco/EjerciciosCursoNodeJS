@@ -4,6 +4,58 @@
 		"selected_items":
 		[
 			[
+				"comm",
+				"comm-html	Comment - HTML comment"
+			],
+			[
+				"error",
+				"new URIError(${0:message})	Error"
+			],
+			[
+				"t",
+				"toLowerCase〔function〕"
+			],
+			[
+				"if",
+				"if else"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"leg",
+				"legend	Tag"
+			],
+			[
+				"char",
+				"char	<meta>"
+			],
+			[
+				"inputh",
+				"inputh	input - hidden"
+			],
+			[
+				"input",
+				"inputs	input - submit"
+			],
+			[
+				"la",
+				"label	<label>"
+			],
+			[
+				"inputt",
+				"inputt	input - text"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
 				"function",
 				"function(){\n	$0\n})();	(function(){\n	$0\n})();"
 			],
@@ -56,10 +108,6 @@
 				"length	String"
 			],
 			[
-				"if",
-				"if()"
-			],
-			[
 				"true",
 				"isTrusted	Event"
 			],
@@ -88,10 +136,6 @@
 				"meta	<meta name=\"\" content=\"\">"
 			],
 			[
-				"html",
-				"html	html"
-			],
-			[
 				"htm",
 				"html5	Simple HTML5 Boilerplate"
 			],
@@ -102,10 +146,6 @@
 			[
 				"ion-nav",
 				"ionic-nav-bar	ionic-nav-bar"
-			],
-			[
-				"h",
-				"h:a	height:auto"
 			],
 			[
 				"mix",
@@ -136,9 +176,21 @@
 	"build_system": "Packages/Nodejs/Nodejs.sublime-build",
 	"command_palette":
 	{
-		"height": 285.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
 			[
 				"install",
 				"Package Control: Install Package"
@@ -217,6 +269,13 @@
 	},
 	"file_history":
 	[
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/Ej4/node_modules/express/Readme.md",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/Ej4/app.js",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/Ej4/html.html",
+		"/home/amaranto/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/Ej4/node_modules/express/lib/express.js",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/Ej4/node_modules/express/package.json",
+		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/Ej4/node_modules/express/index.js",
 		"/home/amaranto/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
 		"/home/amaranto/.local/share/Trash/files/Hello World/Hello World.js",
 		"/home/amaranto/Documentos/Cursos/Desarrollo de servicios en la nube con HTML5, Javascript y node.js/EjerciciosCurso/dest",
@@ -241,7 +300,6 @@
 		"/home/amaranto/.local/share/applications/mimeapps.list",
 		"/home/amaranto/.local/share/applications/Titanium Studio.desktop",
 		"/home/amaranto/.local/share/applications/xampp.desktop",
-		"/home/amaranto/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
 		"/home/amaranto/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/amaranto/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
 		"/home/amaranto/.config/sublime-text-2/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
@@ -281,7 +339,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 0.0,
 		"where_history":
 		[
 		]
@@ -291,6 +349,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"=\"(.*?)\"",
+			"	",
+			"\n",
 			"simple_require",
 			"fs",
 			"applica",
@@ -302,9 +363,12 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"='$1'",
+			"='($1)'",
+			"",
 			"'"
 		],
 		"reverse": false,
@@ -344,6 +408,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.git":
+	{
+		"height": 112.0
+	},
 	"replace":
 	{
 		"height": 64.0
